@@ -1,2 +1,2 @@
 # Batatabit_HTML_CSS
-una pagina hecha con html y css , y responsiva
+una pagina hecho con html y css , tiene responsive design: mobile first.
