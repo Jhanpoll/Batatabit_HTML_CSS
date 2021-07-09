@@ -2,13 +2,11 @@
 Maquetación de la pagina web: Batatabit
 
 conocimiento aplicados
-
-------------
 `-  html5`
 `- css`
 `	- grid y flexbox`
 `- responsive design: mobile first`
-
+------------
 ## vista previa en mobile
 
 
