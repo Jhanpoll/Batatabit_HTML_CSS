@@ -1,7 +1,6 @@
 # Batatabit
 Maquetación de la pagina web: Batatabit
-
-conocimiento aplicados
+###### conocimiento aplicados
 `-  html5`
 `- css`
 `	- grid y flexbox`
